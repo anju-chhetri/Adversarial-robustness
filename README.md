@@ -25,3 +25,6 @@ During the generation of adversarial images, we can provide different types of t
 | Irrelevant prompt    | Text unrelated to the image content.        |
 | Random token prompt      | Sequence of tokens randomly sampled from a uniform distribution.       |
 | Null prompt   | No text prompt is provided.        |
+
+# Results
+
